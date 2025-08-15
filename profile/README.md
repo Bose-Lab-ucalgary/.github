@@ -38,6 +38,26 @@ Canada Research Chair in Precision Health and Cancer Genomics
 
 ---
 
+## 👽 Current Members
+
+1. PI: Dr. Pinaki Bose
+2. Dr. Ayan Chanda
+3. Dr. Megha Murali
+4. Dr. Parisa Ghahremanifard
+5. Dr. Tahsin Hassan Rahit
+6. Dr. Daesun Kim
+7. Jackson Mclean
+8. Jamie MacDonald
+9. Jinsu An
+10. Maria Mansi
+11. Jamie MacDonald
+
+🧑‍🎓 Recent Alumni:
+1. Ilana Lebon
+2. Lara Dsouza
+3. Reid McNeil
+
+
 ## 📢 Join Us!
 
 We are always looking for enthusiastic researchers and collaborators passionate about computational oncology. If you're interested in:
