@@ -35,27 +35,27 @@ Canada Research Chair in Precision Health and Cancer Genomics
 |--------|-------------|--------|
 | `ICI-Response-Predictor` | Deep learning framework for predicting immunotherapy response using multimodal inputs (WSI + ST + Clinical) | 🔬 In progress |
 | `NK-cell-HNSCC` | Single-cell and spatial profiling of NK cells in head & neck cancer | 📊 Analysis & Visualization |
+| `Hybrid Genome Creator Tool` | | |
 
 ---
 
 ## 👽 Current Members
 
-1. PI: Dr. Pinaki Bose
-2. Dr. Ayan Chanda
-3. Dr. Megha Murali
-4. Dr. Parisa Ghahremanifard
-5. Dr. Tahsin Hassan Rahit
-6. Dr. Daesun Kim
-7. Jackson Mclean
-8. Jamie MacDonald
-9. Jinsu An
-10. Maria Mansi
-11. Jamie MacDonald
+1. PI: Dr. Pinaki Bose (PI)
+1. Dr. Megha Murali (Research Tech.)
+1. Dr. Ayan Chanda (Postdoc)
+1. Dr. Tahsin Hassan Rahit (Postdoc)
+1. Dr. Daesun Kim (Postdoc)
+1. Jackson Mclean (MSc Student)
+1. Jinsu An (PhD Student)
+1. Maria Mansi (BSc. student)
+1. Jamie MacDonald
 
 🧑‍🎓 Recent Alumni:
+1. Dr. Parisa Ghahremanifard (PhD)
 1. Ilana Lebon
-2. Lara Dsouza
-3. Reid McNeil
+1. Lara Dsouza
+1. Reid McNeil
 
 
 ## 📢 Join Us!
