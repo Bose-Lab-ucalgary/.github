@@ -1,5 +1,4 @@
 # 🧬 Bose Lab @ University of Calgary
-
 **Precision Oncology | Computational Biology | AI in Health**
 
 Welcome to the GitHub home of the **Bose Lab**, based in the Department of Oncology at the **Cumming School of Medicine**, University of Calgary. We are part of the **Arthur J.E. Child Comprehensive Cancer Centre** and the **Arnie Charbonneau Cancer Institute**.
@@ -34,8 +33,8 @@ Canada Research Chair in Precision Health and Cancer Genomics
 | Project | Description | Status |
 |--------|-------------|--------|
 | `ICI-Response-Predictor` | Deep learning framework for predicting immunotherapy response using multimodal inputs (WSI + ST + Clinical) | 🔬 In progress |
-| `NK-cell-HNSCC` | Single-cell and spatial profiling of NK cells in head & neck cancer | 📊 Analysis & Visualization |
-| `Hybrid Genome Creator Tool` | | |
+| [`NK-cell-HNSCC`](https://github.com/Bose-Lab-ucalgary/NKCell) | Single-cell and spatial profiling of NK cells in head & neck cancer | 📊 Analysis & Visualization |
+| [`Hybrid Genome Creator Tool`](https://github.com/Bose-Lab-ucalgary/decodon) | Pipeline to produce HPV-integrated hybrid human reference genome | ✅ Active |
 
 ---
 
@@ -52,18 +51,19 @@ Canada Research Chair in Precision Health and Cancer Genomics
 1. Jamie MacDonald
 
 🧑‍🎓 Recent Alumni:
+
 1. Dr. Parisa Ghahremanifard (PhD)
 1. Ilana Lebon
 1. Lara Dsouza
 1. Reid McNeil
-
 
 ## 📢 Join Us!
 
 We are always looking for enthusiastic researchers and collaborators passionate about computational oncology. If you're interested in:
 - Research internships
 - Graduate or postdoctoral positions
-- Data-driven cancer research collaborations  
+- Data-driven cancer research collaborations
+  
 👉 Reach out via [email](mailto:pbose@ucalgary.ca).
 
 ---
